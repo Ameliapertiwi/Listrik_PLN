@@ -12,7 +12,7 @@
 	<div class="container-fluid">
 
 		<div class="row">
-				<video autoplay="" name="media" loop="" width="100%"><source src="../images/flash.mp4"></video>
+				<video autoplay="" name="media" loop="" width="100%"><source src="../images/light.mp4"></video>
 			<!-- <div class="col-md-12">
 				<div class="alert alert-success alert-dimis">
 					<center><h4>LOGIN BERHASIL <?php echo $_SESSION['nama_agen']; ?></h4></center>

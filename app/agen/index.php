@@ -27,10 +27,10 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>FORM LOGIN FLASH PAYMENT</title>
+	<title>FORM LOGIN LIGHT PAYMENT</title>
 	<link rel="stylesheet" type="text/css" href="../css/bootstrap.css">
 </head>
-<body style="background:url('../images/flash.jpg');"  >
+<body style="background:url('../images/neon.jpg');"  >
 	<div class="container">
 		<div class="row">
 			<div class="col-md-12">
@@ -40,7 +40,7 @@
 						<!-- judul -->
 						<div class="panel-heading">
 							<div style="margin-top: 5px;margin-bottom: 5px;">
-								<img src="../images/fp.jpg" alt="logo" class="logo" width="90px">
+								<img src="../images/ling1.png" alt="logo" class="logo" width="90px">
 							</div>
 							<div style="margin-left: 110px; margin-top: -90px; font-size: 120%;">
 								<center>W E B S I T E &nbsp; P E M B A Y A R A N &nbsp; 
@@ -75,7 +75,7 @@
 
 						<!-- footer -->
 						<div class="panel-footer">
-							<center>&copy;<?php echo date("Y"); ?> - Flash Industries</center>
+							<center>&copy;<?php echo date("Y"); ?> - Light Industries</center>
 						</div>
 						<!-- end footer -->
 					</div>

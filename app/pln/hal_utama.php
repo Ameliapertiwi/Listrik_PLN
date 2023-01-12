@@ -22,7 +22,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>PT. SALIM INDUSTRIES</title>
+	<title>E-LIPAS</title>
 	<link rel="stylesheet" type="text/css" href="../css/bootstrap.css">
  </head>
 <body>
@@ -31,7 +31,7 @@
 			<div class="col-md-12">
 				<div class="navbar navbar-fixed-top navbar-inverse inverse">
 					<a href="?menu=home" class="navbar-brand" style="margin-top: -10px;">
-						<img alt="Brand" src="../images/YAPI.jpg" width="40px">
+						<img alt="Brand" src="../images/logo1.png" width="40px">
 					</a>
 					<ul class="nav navbar-nav">
 						<li class="dropdown">
@@ -145,7 +145,7 @@
 	<br><br>
 	<footer class="container-fluid bg-4 text-center" style="background-color: #fffefe">
 		<p>
-		  	<strong>Copyright&nbsp;&copy;&nbsp;17190963 - Yanti Yosefa Maharani Saragih.</strong>&nbsp;
+		  	<strong>Copyright&nbsp;&copy;&nbsp;17190807 - Amelia Pertiwi</strong>&nbsp;
 		  	<br>
 		  	
 		</p>

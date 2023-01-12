@@ -29,7 +29,7 @@
 	<title>FORM LOGIN PLN</title>
 	<link rel="stylesheet" type="text/css" href="../css/bootstrap.css">
 </head>
-<body style="background:url('../images/doit.jpg');">
+<body style="background:url('../images/bg3.jpg');">
 	<div class="container">
 		<div class="row">
 			<div class="col-md-12">
@@ -39,7 +39,7 @@
 						<!-- judul aplikasi -->
 						<div class="panel-heading">
 							<div style="margin-top: 5px;margin-bottom: 5px;">
-								<img src="../images/YAPI.jpg" alt="logo" class="logo" width="90px">
+								<img src="../images/logo1.png" alt="logo" class="logo" width="90px">
 							</div>
 							<div style="margin-left: 110px; margin-top: -90px; font-size: 120%;">
 								A P L I K A S I &nbsp; P E M B A Y A R A N &nbsp; 
@@ -75,7 +75,7 @@
 						<!-- footer -->
 						<div class="panel-footer">
 							<center>
-								<strong>&copy;2022 - Yanti Yosefa Maharani Saragih.
+								<strong>&copy;2023 - Amelia Pertiwi
 							</center>
 						</div>
 						<!-- end footer -->

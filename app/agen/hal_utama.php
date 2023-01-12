@@ -24,7 +24,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>FLASH INDUSTRIES</title>
+	<title>LIGHT INDUSTRIES</title>
 	<link rel="stylesheet" type="text/css" href="../css/bootstrap.css">
 	<style type="text/css">
 		.navbar-collapse{
@@ -39,7 +39,7 @@
 				<div class="navbar navbar-fixed-top navbar-default">
 					<div class="navbar-header">
 						<a href="?menu=home" class="navbar-brand" style="margin-top: -23px;">
-							<img alt="Brand" src="../images/fp.jpg" width="55px" >
+							<img alt="Brand" src="../images/ling1.png" width="55px" >
 						</a>
 					</div>
 					<div class="navbar-collapse collapse">
@@ -123,7 +123,7 @@
 	<br><br>
 	<footer class="container-fluid bg-4 text-center">
 		<p>
-		  	<strong>Copyright&nbsp;&copy;&nbsp;2022 Flash Industries .</strong>&nbsp;
+		  	<strong>Copyright&nbsp;&copy;&nbsp;2023 Light Industries .</strong>&nbsp;
 		  	<br>
 		  	
 		</p>
